@@ -1,6 +1,6 @@
 # burcum
 
-![](burcum.gif)
+![](Burc.gif)
 
 
 Burc rehberi 
