@@ -1,7 +1,6 @@
 # burcum
 
-Burc rehberi zımbırtısı
-
+Burc rehberi 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
