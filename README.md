@@ -1,7 +1,9 @@
 # burcum
 
-Burc rehberi zımbırtısı
+![](burc.gif)
 
+
+Burc rehberi 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
