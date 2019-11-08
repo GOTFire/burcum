@@ -1,5 +1,8 @@
 # burcum
 
+![](burcum.gif)
+
+
 Burc rehberi 
 ## Getting Started
 
